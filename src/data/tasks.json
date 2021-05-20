@@ -1,0 +1,26 @@
+tasks = {
+    {
+      id: 0,
+      text: "cokolwiek",
+      date: "2029-02-15",
+      importatnt: true,
+      active: true,
+      finishDate: null,
+    },
+    {
+      id: 1,
+      text: "dupa",
+      date: "2025-12-02",
+      importatnt: false,
+      active: true,
+      finishDate: null,
+    },
+    {
+      id: 2,
+      text: "wypic w koncu kawe",
+      date: "2021-05-10",
+      importatnt: true,
+      active: true,
+      finishDate: null,
+    },
+  }
